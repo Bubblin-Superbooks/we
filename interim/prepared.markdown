@@ -223,7 +223,7 @@ Long live the Well-Doer!!!"
 
 I feel my cheeks burn as I write this. To integrate the colossal, universal equation! To unbend the wild curve, to straighten' it out to a tangent—to a straight line! For the United State is a straight line, a great, divine, precise, wise line, the wisest of lines!
 
-I, D-5o3, the builder of the Integral, I am only one of the many mathematicians of the United State. My pen, which is accustomed to figures, is unable to express the march and rhythm of consonance; therefore I shall try to record only the things I see, the things I think, or, to be more exact, the things we think. Yes, "we"; that is exactly what I mean, and We, therefore, shall be the title of my records. But this will only be a derivative of our life, of our mathematical, perfect life in the United State. If this be so, will not this derivative be a poem in itself, despite my limitations? It will. I believe it, I know it.
+I, D-503, the builder of the Integral, I am only one of the many mathematicians of the United State. My pen, which is accustomed to figures, is unable to express the march and rhythm of consonance; therefore I shall try to record only the things I see, the things I think, or, to be more exact, the things we think. Yes, "we"; that is exactly what I mean, and We, therefore, shall be the title of my records. But this will only be a derivative of our life, of our mathematical, perfect life in the United State. If this be so, will not this derivative be a poem in itself, despite my limitations? It will. I believe it, I know it.
 
 My cheeks still burn as I write this. I feel something similar to what a woman probably feels when for the first time she senses within herself the pulse of a tiny, blind, human being. It is I, and at the same time it is not I. And for many long months it will be necessary to feed it with my life, with my blood, and then with a pain at my heart, to tear it from myself and lay it at the feet of the. United State.
 
@@ -517,7 +517,7 @@ Besides, something happened to me. True, it occurred during the personal hour, t
 
 At about sixteen (to be exact, ten minutes to sixteen), I was at home. Suddenly the telephone:
 
-"D-5o3?"—a woman's voice.
+"D-503?"—a woman's voice.
 
 "Yes."
 
@@ -867,7 +867,7 @@ The moist, varnished lips whispered good-naturedly:
 
 "Half an hour is plenty for us, is it not, 0-? I am not a great lover of your problems; let us simply go over to my place and chat."
 
-I was afraid to remain alone with myself or, to be more correct, with that strange new self who by some curious coincidence bore my number, D-5o3. So I went with R-.
+I was afraid to remain alone with myself or, to be more correct, with that strange new self who by some curious coincidence bore my number, D-503. So I went with R-.
 
 True, he is not precise, not rhythmic, his logic is jocular and turned inside out, yet we ar…  Three years ago we both chose our dear, rosy 0-. This tied our friendship more firmly together than our school days did. In R- 's room everything seems like mine: the Tables, the glass of the chairs, the table, the closet, the bed. But as we entered, R- moved one chair out of place, then another—the room became confused, everything lost the established order and seemed to violate every rule of Euclid's geometry.
 
@@ -995,7 +995,7 @@ Hairy I
 ```
 Yesterday was for me like the filter paper that chemists use for filtering their solutions (all suspended and superfluous particles remain on the paper). This morning I went downstairs all purified and distilled, transparent.
 
-Downstairs in the hall the controller sat at a small table, constantly looking at her watch and recording the Numbers who were leaving. Her name is U…  well, I prefer not to give her Number, for I fear I may not write kindly about her—although, as a matter of fact, she is a very respectable, mature woman. The only thing I do not like in her is that her cheeks fold down a little like the gills of a fish (although I don't see anything wrong in this appearance). She scratched with her pen and I saw on the page "D-5o3"—and suddenly, splash! an ink blot. No sooner did I open my mouth to call her attention to that than she raised her head and blotted me with an inky smile. "There is a letter for you. You will receive it, dear.
+Downstairs in the hall the controller sat at a small table, constantly looking at her watch and recording the Numbers who were leaving. Her name is U…  well, I prefer not to give her Number, for I fear I may not write kindly about her—although, as a matter of fact, she is a very respectable, mature woman. The only thing I do not like in her is that her cheeks fold down a little like the gills of a fish (although I don't see anything wrong in this appearance). She scratched with her pen and I saw on the page "D-503"—and suddenly, splash! an ink blot. No sooner did I open my mouth to call her attention to that than she raised her head and blotted me with an inky smile. "There is a letter for you. You will receive it, dear.
 
 Yes, yes, you will."
 
@@ -1113,7 +1113,7 @@ Unbearably sweet lips.
 
 It never occurred to me before but it is true: we who live on the earth, we are always walking over a seething red sea of fire which is hidden in the womb of the earth.
 
-We never think of it. But imagine the ground under our feet suddenly transformed into a thin glass shell; suddenly we should behold ..… ecame glass-like and saw within myself. There were two selves in me. One, the former D-5o3, Number D-5o3; and the othe…  Before, that other used only to show his hairy paws from time to time, but now that whole other self left his shell. That shell was breaking, and in a moment .
+We never think of it. But imagine the ground under our feet suddenly transformed into a thin glass shell; suddenly we should behold ..… ecame glass-like and saw within myself. There were two selves in me. One, the former D-503, Number D-503; and the othe…  Before, that other used only to show his hairy paws from time to time, but now that whole other self left his shell. That shell was breaking, and in a moment .
 
 Grasping the last straw (the arms of the chair) with all my strength, I asked loudly (so as to hear my first self), "Where, where did you get this poison?"
 
@@ -1564,7 +1564,7 @@ I was resting Suddenly one of them turned his carefree face toward me.
 
 My blood rushed to my face. No, I could not lie, facing those eyes. I remained silent; I was drowning Above, a shiny, round, white porcelain face appeared in the hatchway.
 
-"Hey! D-5o3! Come up here! Something is wrong with a frame and brackets here, and . ."
+"Hey! D-503! Come up here! Something is wrong with a frame and brackets here, and . ."
 
 Not waiting until he had finished, I rushed to him, upstairs; I was shamefully saving myself by flight. I had not the power to raise my eyes. I was dazed by the sparkling glass steps under my feet, and with every step I felt more 8o 
 
@@ -1572,7 +1572,7 @@ Not waiting until he had finished, I rushed to him, upstairs; I was shamefully s
 
 I crawled through the hatchway to the deck and stood there; where was I to go now? I did not know what I had come for! I looked aloft. The midday sun, exhausted by its march, was fuming dimly. Below was the Integral, a gray mass of glass—dead. The pink blood was drained out! It was obvious to me that all this was my imagination and that everything was the same as before; yet it was also clear to me tha… 
 
-"What is the matter with you, D-5o3? Are you deaf? I call and call you. What is the matter with you?" It was the Second Builder yelling directly into my ear; he must have been yelling that way for quite a while.
+"What is the matter with you, D-503? Are you deaf? I call and call you. What is the matter with you?" It was the Second Builder yelling directly into my ear; he must have been yelling that way for quite a while.
 
 What was the matter with me? I had lost my rudder; the motor was groaning as before, the aero was quivering and rushing on, but it had no rudder. I did not even know where I was rushing, down to the earth or up to the sun, to its flame 
 
@@ -1679,7 +1679,7 @@ I told you"—he tossed the thin one on the horns—"I told you the only thing t
 
 Some time ago I should probably have said without hesitation, "I am willing," but now—I was silent. I caught the profile of the thin doctor; I implored him!
 
-"You see," he said at last, "Number D-5o3 is building the Integral, and I am sure the operation would interfere
+"You see," he said at last, "Number D-503 is building the Integral, and I am sure the operation would interfere
 
 "Ah-h!" grumbled the other, and stamped back into his MOM.
 
@@ -2260,7 +2260,7 @@ But could I explain even to myself all the sickness which I have described in th
 
 At that moment, when a heavy curtain was about to separate me from this beautiful world, I noticed not far away a familiar, enormous head gliding over the mirror surface of the pavement and wagging its winglike ears. I heard a familiar, flat voice:
 
-"I deem it my duty to testify that Number D-5o3 is ill and is unable to regulate his emotions. Moreover, I am sure that he was led by natural indignation—"
+"I deem it my duty to testify that Number D-503 is ill and is unable to regulate his emotions. Moreover, I am sure that he was led by natural indignation—"
 
 "Yes! Yes!" I exclaimed. "I even shouted, 'Catch herl' "
 
@@ -2804,9 +2804,7 @@ our last day…  You know, don't you, that all Auditoriums are to be closed afte
 
 "But what does it all mean?"
 
-"I don't know. Nobody knows as yet. That's the worst of it. I feel only that the current is on, the spark is jumping, and if not today, then tomorrow Yet perhaps they will not have time
-
-"
+"I don't know. Nobody knows as yet. That's the worst of it. I feel only that the current is on, the spark is jumping, and if not today, then tomorrow Yet perhaps they will not have time"
 
 It has been a long while since I ceased to understand who they are and who we are. I do not understand what I want; do I want them to have or not to have enough time?
 
@@ -2822,9 +2820,7 @@ A smile.
 
 Yes, she was right; I had even written it down. Consequently, it really had taken place. In silence I looked into her face. At that moment the dark cross was especially distinct. 
 
- "I-, dear, before it is too late .. . If you wan… I'll leave everything, I'll forget everything, and we'll go there beyond the Wall, to them I do not even know who they are
-
-"
+ "I-, dear, before it is too late .. . If you wan… I'll leave everything, I'll forget everything, and we'll go there beyond the Wall, to them I do not even know who they are"
 
 She shook her head. Through the dark windows of her eyes I saw within her a flaming oven, sparks, tongues o… me, and above them a heap of dry wood. It was clear to me that it was too late, my words could be of no avail.
 
@@ -2906,7 +2902,7 @@ At once I recalled everything that had happened in the same room half an hour ag
 
 All my being was shriveling and pulsating in that fortunately opaque part of my body with which I was covering the manuscript. U- came up to S-, gently plucked his sleeve, and said in a low voice:
 
-"This is D-5o3, the builder of the Integral. You have probably heard of him. He is always like that, at his desk
+"This is D-503, the builder of the Integral. You have probably heard of him. He is always like that, at his desk
 
 —does not spare himself at all!"
 
@@ -2950,17 +2946,13 @@ For a few seconds she stared into my face with her blue eyes, in silence.
 
 "I saw you, too." I at once remembered; below, in a narrow passage she had stood, pressing herself to the wall, protecting her abdomen with her arms; and automatically I now glanced at her abdomen which rounded the unit. She must have noticed, for she became pink, and with a rosy smile:
 
-"I am so happ…  so happy! I am so full o…  you understand, I a…  I walk and I hear nothing around me And all the while I listen within, within me
-
-"
+"I am so happ…  so happy! I am so full o…  you understand, I a…  I walk and I hear nothing around me And all the while I listen within, within me"
 
 I was silent. Something foreign was shadowing my face and I was unable to rid myself of it. Suddenly, all shining, light blue, she caught my hand; I felt her lips upon it It was the first time in my life It was some ancient caress as yet unknown to me And I was so ashamed and it pained me so much that I swiftly, I think even roughly, pulled my hand away.
 
 "Listen, you are crazy, it seems And anyway you
 
-… hat are you happy about? Is it possible that you forget what is ahead of you? If not now, then within a month or two
-
-"
+… hat are you happy about? Is it possible that you forget what is ahead of you? If not now, then within a month or two"
 
 Her light went out, her roundness sagged and shrank.
 
@@ -3129,7 +3121,7 @@ It is not your fault; you are ill. And the name of your illness is:
 
 It is a worm that gnaws black wrinkles on one's forehead.
 
-It is a fever that drives one to run further and further, even RECORD THIRTY-ONE though "further" may begin where happiness ends. It is the last barricade on our road to happiness.
+It is a fever that drives one to run further and further, even though "further" may begin where happiness ends. It is the last barricade on our road to happiness.
 
 Rejoice! This Barricade Has Been Blasted at Last! The Road Is Open!
 
@@ -3145,9 +3137,9 @@ I snatched the telephone receiver.
 
 "I-330. Ye…  Yes. Ye…  330!" And then, swallowing my own words, I shouted, "Are you at home? Yes? Have you read? You are reading now? Isn't it, isn't it stupendous?"
 
-"Yes
+Yes
 
-" A long, dark silence. The wires buzzed almost imperceptibly. She was thinking.
+A long, dark silence. The wires buzzed almost imperceptibly. She was thinking.
 
 "I must see you today without fail. Yes, in my room, after sixteen, without fail!" 
 
@@ -3168,8 +3160,6 @@ With what eyes would I have looked at the glass monster had everything remained 
 I turned around. The plate-like, flat face of the Second Builder.
 
 "Do you know already?" he asked.
-
-RECORD THIRTY-ONE
 
 "What? About the Operation? Yes. How everything, everythin…  suddenl… "
 
@@ -3213,8 +3203,6 @@ I threw myself upon the floor near her chair, to embrace her limbs, to lift my h
 
 Suddenly, from above:
 
-RECORD THIRTY-ONE
-
 "And don't you think that at the apex are, precisely, stones unitied into an organized society?" The triangle grew sharper and sharper, darker and darker.
 
 "Happines…  well…  Desires are tortures, aren't they? It is clear, therefore, that happiness is when there are no longer any desires, not a single desire any more.
@@ -3232,10 +3220,7 @@ But doesn't it prove that we are at the summit?"
 As before she seemed somehow to speak for me and through me, developing my own thoughts to the end. But there was something so morbid in her tone that I could not refrai…  with an effort I drew out a "No."
 
 "No," I said. "You, you are mocking
-
-"
-
-She burst out laughing loudly, too loudly. Swiftly, in a second, she laughed herself to some unseen edge, stumbled, and fell over Silence.
+"She burst out laughing loudly, too loudly. Swiftly, in a second, she laughed herself to some unseen edge, stumbled, and fell over Silence.
 
 She stood up, put her hands upon my shoulders, and looked into me for a long while. Then she pulled me toward her and everything seemed to have disappeared save her sharp, hot lips
 
@@ -3269,7 +3254,19 @@ until tomorrow. Tomorrow at twelve. You remember?"
 
 "So much the better for us. At twelve, day after tomorrow!"
 
-I walked alone in the dusky street. The wind was whirling, carrying, driving me like a piece of paper; fragments of the leaden sky were soaring, soaring—they had to soar through the infinite for another day or two Unifs of Numbers were brushing my sides—yet I was walking alone. It was clear to me that all were being saved but that there was no salvation for me. For I do not want salvation RECORD THIRTY-TWO I Do Not Believe Tractors A Little Human Splinter Do you believe that you will die? Oh, yes, "Man is mortal; I am a man; consequentl… " No, not that; I know that; you know it. But I ask: Has it ever happened that you actually believed it? Believed definitely, believed not with your reason but with your body, that you actually felt that someday those fingers which now hold this page will become yellow, icy… 
+I walked alone in the dusky street. The wind was whirling, carrying, driving me like a piece of paper; fragments of the leaden sky were soaring, soaring—they had to soar through the infinite for another day or two Unifs of Numbers were brushing my sides—yet I was walking alone. It was clear to me that all were being saved but that there was no salvation for me. For I do not want salvation. 
+
+---
+
+### RECORD THIRTY-TWO 
+
+```
+I Do Not Believe Tractors 
+A Little Human 
+Splinter 
+```
+
+Do you believe that you will die? Oh, yes, "Man is mortal; I am a man; consequentl… " No, not that; I know that; you know it. But I ask: Has it ever happened that you actually believed it? Believed definitely, believed not with your reason but with your body, that you actually felt that someday those fingers which now hold this page will become yellow, icy… 
 
 No, of course you cannot believe this. That is why you haven't jumped from the tenth floor to the pavement before now; that is why you eat, turn over these pages, shave, smile, write.
 
@@ -3301,11 +3298,8 @@ As always—four abreast. But the rows did not seem a… m as usual; they were s
 
 "They? Are those they?"
 
-RECORD THIRTY-TWO
 
-"Ah, never! Never! I'd rather put my head straight into the Machine
-
-"
+"Ah, never! Never! I'd rather put my head straight into the Machine"
 
 "Silence! Are you crazy?"
 
@@ -3333,15 +3327,15 @@ I think the ancients must have had similar feelings toward their private childre
 
 Below, filtering through her hands with which she was covering her face, a voice came to me:
 
-"Every nigh…… annot! If they cure m…  Every night I sit in the darkness alone and think of him, and of what he will look like whe…  . If I am cured I would have nothing to live with—do you understand me? You mus…  you mus… "
+"Every nigh…… annot! If they cure m…  Every night I sit in the darkness alone and think of him, and of what he will look like whe… . If I am cured I would have nothing to live with—do you understand me? You mus…  you mus… "
 
 An absurd feeling, yet it was there; I really must! Absurd, because this "duty" of mine was nothing but another crime. Absurd, because white and black cannot be one, duty and crime cannot coincide. Or perhaps there is no black and white in life, but everything depends upon th… st logical premise? If the premise is that I unlawfully gave her a chil… 
 
-"It's all right, but don't, only don't . .." I said, "Of course I understand I must take you to I-330, as I once offered to, so that sh… "
+"It's all right, but don't, only don't… ." I said, "Of course I understand I must take you to I-330, as I once offered to, so that sh… "
 
 "Yes." (This in a low voice, without uncovering her face.)
 
-I helped her rise. Silently we went along the darkening street, each busy with his own thoughts, or perhaps with the same thought We walked between silent, RECORD THIRTY-TWO leaden houses, through the tense, whipping branches of the wind All at once, through the whistling of the wind, I heard, as if splashing through ditches, the familiar footsteps coming from some unseen point, At the corner I turned around, and among the clouds, flying upside down in the dim glass reflection of the pavement, I saw S-. Instantly my arms became foreign, swinging out of time, and I began to tell 0-go in a low voice that tomorrow, yes, tomorrow, was the day of the first flight of the Integral, and that it was to be something that had never happened before in all history, great, miraculous.
+I helped her rise. Silently we went along the darkening street, each busy with his own thoughts, or perhaps with the same thought. We walked between silent, laden houses, through the tense, whipping branches of the wind All at once, through the whistling of the wind, I heard, as if splashing through ditches, the familiar footsteps coming from some unseen point, At the corner I turned around, and among the clouds, flying upside down in the dim glass reflection of the pavement, I saw S-. Instantly my arms became foreign, swinging out of time, and I began to tell 0-go in a low voice that tomorrow, yes, tomorrow, was the day of the first flight of the Integral, and that it was to be something that had never happened before in all history, great, miraculous.
 
 "Think of it! For the first time in life to find myself outside the limits of our city and see—who knows what is beyond the Green Wall?"
 
@@ -3375,7 +3369,7 @@ Then the bent-over human splinter went to the door; a bent-over little shadow be
 
 "They have all gone crazy! He, for instance, is trying to assure me that he himself saw a naked man covered with hair near the Ancient Hous… "
 
-RECORD THIRTY-TWO A voice from the group of empty raised heads:
+A voice from the group of empty raised heads:
 
 "Yes. I repeat it, yes."
 
@@ -3383,11 +3377,19 @@ RECORD THIRTY-TWO A voice from the group of empty raised heads:
 
 The word "delirium" came out of her mouth so full of conviction, so unbending, that I asked myself: "Perhaps it really was nothing but delirium, all that has been going on around me lately." I glanced at my hairy hand, and I remembered: "There are, undoubtedly, some drops of that blood of the sun and woods in you. That is why perhaps yo… " No, fortunately it was not delirium; or no, unfortunately it was not delirium.
 
-RECORD THIRTY-THREE This Without a Synopsis, Hastily, the Last The day.
+---
+
+### RECORD THIRTY-THREE 
+
+```
+This Without a Synopsis 
+Hastily, the Last 
+The day
+```
 
 Quick, to the newspaper! Perhaps ther…  I read the paper with my eyes (exactly; my eyes now are like a pen, or like a counting machine which you hold and feel in your hands like a tool, something foreign, an instrument). In the newspaper, on the first page, in large print:
 
-THE ENEMIES OF HAPPINESS ARE AWAKE! HOLD TO YOUR HAPPINESS WITH BOTH HANDS. TOMORROW ALL WORK WILL STOP AND ALL NUMBERS ARE TO COME TO BE OPERATED UPON. THOSE WHO FAIL TO COME WILL BE SUBMITTED TO THE MACHINE OF THE WELL-DOER.
+> THE ENEMIES OF HAPPINESS ARE AWAKE! HOLD TO YOUR HAPPINESS WITH BOTH HANDS. TOMORROW ALL WORK WILL STOP AND ALL NUMBERS ARE TO COME TO BE OPERATED UPON. THOSE WHO FAIL TO COME WILL BE SUBMITTED TO THE MACHINE OF THE WELL-DOER.
 
 Tomorrow! How can there be, how can there be any tomorrow?
 
@@ -3395,21 +3397,29 @@ Following my daily habit, I stretched out my arm (instrument!) to the bookshelf 
 
 … ithin this cover, neve… " And out of my hands, down to the floor it fell.
 
-I stood looking all around, over all my room; hastily I was taking away, feverishly putting into some unseen RECORD THIRTY-THREE valise, everything I regretted leaving here: my desk, my books, my chair. Upon that chair I-330 had sat that day; 1 was below on the floo…  My be…  Then for a minute or two I stood and waited for some miracle to happen; perhaps the telephone would ring, perhaps she would say tha…  But no, no miracl… 
+I stood looking all around, over all my room; hastily I was taking away, feverishly putting into some unseen valise, everything I regretted leaving here: my desk, my books, my chair. Upon that chair I-330 had sat that day; 1 was below on the floo…  My be…  Then for a minute or two I stood and waited for some miracle to happen; perhaps the telephone would ring, perhaps she would say tha…  But no, no miracl… 
 
 I am leaving, going into the unknown. These are my last lines. Farewell you, my unknown beloved ones, with whom I have lived through so many pages, before whom I have bared my diseased soul, my whole self to the last broken little screw, to the last cracked sprin…  I am goin… 
 
-RECORD THIRTY-FOUR The Forgiven Ones A Sunny Night A Radio-Valkyrie Oh, if only I had actually broken myself to pieces! If only I had actually found myself with her in some place beyond the Wall, among beasts showing their yellow tusks. If only I had never actually returned here!
+---
 
-It would be a thousand, a million times easier! But now—
+### RECORD THIRTY-FOUR 
 
-what? Now to go and choke that—! But would it help? No, no, no! Take yourself in hand, D-5o3! Set into yourself the firm hub of logic; at least for a short while weigh heavily with all your might on the lever and, like the ancient slave, turn the millstones of syllogisms until you have written down and understood everything that happened When I boarded the Integral, everyone was already there and in his place; all the cells of the gigantic hive were filled. Through the decks of glass—tiny, antlike people below, at the telegraph, dynamo, transformers, altimeters, ventilators, indicators, motor, pumps, tubes In the saloon people were sitting over tables and instruments, probably those commissioned by the Scientific Bureau; near them the Second Builder and his two aides. All three had their heads down between their shoulders like turtles, their faces gray, autumnal, rayless.
+```
+The Forgiven Ones 
+A Sunny Night 
+A Radio-Valkyrie 
+```
+
+Oh, if only I had actually broken myself to pieces! If only I had actually found myself with her in some place beyond the Wall, among beasts showing their yellow tusks. If only I had never actually returned here!
+
+It would be a thousand, a million times easier! But now—what? Now to go and choke that—! 
+
+But would it help? No, no, no! Take yourself in hand, D-503! Set into yourself the firm hub of logic; at least for a short while weigh heavily with all your might on the lever and, like the ancient slave, turn the millstones of syllogisms until you have written down and understood everything that happened When I boarded the Integral, everyone was already there and in his place; all the cells of the gigantic hive were filled. Through the decks of glass—tiny, antlike people below, at the telegraph, dynamo, transformers, altimeters, ventilators, indicators, motor, pumps, tubes In the saloon people were sitting over tables and instruments, probably those commissioned by the Scientific Bureau; near them the Second Builder and his two aides. All three had their heads down between their shoulders like turtles, their faces gray, autumnal, rayless.
 
 "Well?" I asked.
 
-RECORD THIRTY-FOUR
-
-"Well, somewhat uncanny," one of them replied, smiling a gray, rayless smile. "Perhaps we shall have to land in some unknown place. And, generally speaking, nobody knows . ."
+"Well, somewhat uncanny," one of them replied, smiling a gray, rayless smile. "Perhaps we shall have to land in some unknown place. And, generally speaking, nobody knows…"
 
 I could hardly bear to look at them, when in an hour or so I was to throw them out with my own hands, to cast them out from the cozy figures of our Table of Hours, to tear them away forever from the mother's breast of the United State. They reminded me of the tragic figures of
 
@@ -3437,7 +3447,7 @@ A heavy explosion—a jerk—a rabid, greenish-white mountain of water aft—the
 
 ... As if one had become deaf, one still saw that the pipes were roaring, but one only saw; dead silence all about.
 
-The sun was mute. It was natural, of course. One might have expected it; we were beyond the terrestrial atmosphere. The transition was so quick, so sudden, that everyone became timid and silent. Ye…… hought I felt RECORD THIRTY-FOUR easier under that fantastic, mute sun. I had bounded over the inevitable border, having left my body somewhere there below, and I was soaring bodiless to a new world, where everything was to be different, upside down.
+The sun was mute. It was natural, of course. One might have expected it; we were beyond the terrestrial atmosphere. The transition was so quick, so sudden, that everyone became timid and silent. Ye… hought I felt easier under that fantastic, mute sun. I had bounded over the inevitable border, having left my body somewhere there below, and I was soaring bodiless to a new world, where everything was to be different, upside down.
 
 "Keep the same course!" I shouted into the engine room, or perhaps it was not I but a phonograph in me, and the same machine that I was, with a mechanical, hinge-like movement, handed the commander's trumpet to the Seeond Builder. Permeated by that most delicate, molecular quiver known only to me, I ran down the companionway, to see… 
 
@@ -3485,13 +3495,11 @@ Blue sparks emanated from her, and the odor of lightning, and the vibration with
 
 I know everything; don't talk But the child is yours.
 
-I sent her over; she is already beyond .the Wall. She will live
-
-"
+I sent her over; she is already beyond the Wall. She will live."
 
 I was back on the commander's bridge, back in the delirious night with its black starry sky and its dazzling sun. The hands of the clock on the table were slowly moving from minute to minute. Everything was permeated by a thin, hardly perceptible quivering (only I noticed it).
 
-For some reason a thought passed through my head: it RECORD THIRTY-FOUR would be better if all this took place not here but somewhere below, nearer to earth.
+For some reason a thought passed through my head: it would be better if all this took place not here but somewhere below, nearer to earth.
 
 "Stop!" I commanded.
 
@@ -3539,7 +3547,7 @@ well, I have finished!"
 
 Silence. The glass plates under my feet seemed soft.
 
-cotton-like. My feet, too—soft, cotton-like. Beside me—she RECORD THIRTY-FOUR with a dead-white smile, angry blue sparks. Through her teeth to me:
+cotton-like. My feet, too—soft, cotton-like. Beside me—she with a dead-white smile, angry blue sparks. Through her teeth to me:
 
 "Ah! It is your work! You did your \`duty'! Wel… " She tore her hand from mine; the Valkyrie helmet with indignant wings was soon to be seen some distance in front of me. I was alone, torpid, silent. Like everyone else I followed into the dining saloon.
 
@@ -3583,9 +3591,7 @@ There was no need for her to stay here. There was nobody to be registered The st
 
 The crowd seemed just as nonsensical, dispersed
 
-(not in rows), going forward, backward, diagonally, transversely Then nobody. For a second, suddenly stopping in my mad dashing, I saw on the second floor, in the glass cage of a room hanging in the air, a man and a woman—a kiss; she, standing with her whole body bent backward, brokenly: "This is for the last time, forever
-
-"
+(not in rows), going forward, backward, diagonally, transversely Then nobody. For a second, suddenly stopping in my mad dashing, I saw on the second floor, in the glass cage of a room hanging in the air, a man and a woman—a kiss; she, standing with her whole body bent backward, brokenly: "This is for the last time, forever"
 
 At a corner a thorny, moving bush of heads. Above the heads separate, floating in the air, a banner: "Down with the machines! Down with the Operation!" And, distinct from my own self, I thought: "Is it possible that each one of us bears such a pain, that it can be removed only with his heart?
 
@@ -3657,7 +3663,7 @@ I hurried, grasped the receiver. Perhaps sh…  I heard an unfamiliar voice:
 
 Annoying, infinite buzzing. Heavy steps from afar, nearer and louder like cast iron, an… 
 
-"D-5o3? The Well-Doer speaking. Come at once to me."
+"D-503? The Well-Doer speaking. Come at once to me."
 
 Ding! He hung up the receiver. Ding! like a key in a keyhole.
 
@@ -3683,11 +3689,14 @@ U-, already dressed, was at the door. I made a step toward her and pressed her h
 
 "No."
 
-"No? But why not, since you .
+"No? But why not, since you…"
 
-."
+---
 
-RECORD THIRTY-FIVE Her lower lip turned out like the lip of that boy and her fac…  tears were running down her cheeks.
+### RECORD THIRTY-FIVE 
+
+
+Her lower lip turned out like the lip of that boy and her fac…  tears were running down her cheeks.
 
 "Becaus…… as afraid that if I did you migh… 
 
@@ -3695,9 +3704,18 @@ you would stop lov— Oh, I cannot, I could not!"
 
 I understood. It was the truth. Absurd, ridiculous, human truth. I opened the door.
 
-RECORD THIRTY-SIX Empty Pages The Christian God About My Mother It is very strange that a kind of empty white page should be left in my hand. How I walked there, how I waited
+---
 
-(I remember I had to wait), I know nothing about it; I remember not a sound, not a face, not a gesture, as if all communicating wires between me and the world were cut.
+###
+
+### RECORD THIRTY-SIX 
+
+```
+Empty Pages 
+The Christian God 
+About My Mother
+```
+It is very strange that a kind of empty white page should be left in my hand. How I walked there, how I waited (I remember I had to wait), I know nothing about it; I remember not a sound, not a face, not a gesture, as if all communicating wires between me and the world were cut.
 
 When I came to, I found myself standing before Him.
 
@@ -3707,7 +3725,7 @@ I was afraid to raise my eyes; I saw only the enormous cast-iron hands upon His 
 
 Yo… "
 
-Blood ran to my head, to my cheeks—and here again a white page; only the pulsation in my temples and the heavy voice from above; but I remember not a word. Only when He became silent, I came to and noticed how His RECORD THIRTY-SIX hand moved heavily like a thousand pounds, and crawled slowly—His finger threatened me.
+Blood ran to my head, to my cheeks—and here again a white page; only the pulsation in my temples and the heavy voice from above; but I remember not a word. Only when He became silent, I came to and noticed how His hand moved heavily like a thousand pounds, and crawled slowly—His finger threatened me.
 
 "Well? Why are you silent? Is it true, or not? Executioner? So!"
 
@@ -3727,11 +3745,7 @@ Proceed! Argue!"
 
 How could I argue? How could I argue when those thoughts were once mine, though I was never able to dress them in such a splendid, tempered armor? I remained silent.
 
-"If your silence is intended to mean that you agree with 
-
- me, then let us talk as adults do after the children have gone to bed; let us talk to the logical end. I ask: what was it that man from his diaper age dreamed of, tormented himself for, prayed for? He longed for that day when someone would tell him what happiness is, and then would chain him to it. What else are we doing now? The ancient dream about a paradis…  Remember: there in paradise they know no desires any more, no pity, no love; there they are all—blessed. An operation has been performed upon their center of fancy; that is why they are blessed, angels, servants of God And now, at the very moment when we have caught up with that dream, when we hold it like this" (He clenched his hand so hard, that if he had held a stone in it sap would have run out!)
-
-tt At the moment when all that was left for us was to adorn our prize and distribute it among all in equal pieces, at that very moment you, yo… "
+"If your silence is intended to mean that you agree with me, then let us talk as adults do after the children have gone to bed; let us talk to the logical end. I ask: what was it that man from his diaper age dreamed of, tormented himself for, prayed for? He longed for that day when someone would tell him what happiness is, and then would chain him to it. What else are we doing now? The ancient dream about a paradis…  Remember: there in paradise they know no desires any more, no pity, no love; there they are all—blessed. An operation has been performed upon their center of fancy; that is why they are blessed, angels, servants of God And now, at the very moment when we have caught up with that dream, when we hold it like this" (He clenched his hand so hard, that if he had held a stone in it sap would have run out!). At the moment when all that was left for us was to adorn our prize and distribute it among all in equal pieces, at that very moment you, yo… "
 
 The cast-iron roar was suddenly broken off. I was as red as a piece of iron on an anvil under the moulding sledge hammer. The hammer seemed to have stopped for a second, hanging in the air, and I waited, waite…  until suddenly:
 
@@ -3741,13 +3755,11 @@ The cast-iron roar was suddenly broken off. I was as red as a piece of iron on a
 
 "Just double the age, and as simple as at sixteen! Listen.
 
-Is it possible that it really never occurred to you that they
-
-(we do not yet know their names, but I am certain you will disclose them to us), that they were interested in you only as the Builder of the Integral? Only in order to be able, through the use of you—"
+Is it possible that it really never occurred to you that they (we do not yet know their names, but I am certain you will disclose them to us), that they were interested in you only as the Builder of the Integral? Only in order to be able, through the use of you—"
 
 "Don't! Don't!" I cried. But it was like protecting yourself with your hands and crying to a bullet: you may still be hearing your own "don't," but meanwhile the bullet has burned you through, and writhing with pain you are prostrated on the ground.
 
-Yes, yes: the Builder of the Integra…  Yes, yes At once there came back to me the angry face of U- with RECORD THIRTY-SIX twitching, brick-red gills, on that morning when both of the… 
+Yes, yes: the Builder of the Integra…  Yes, yes At once there came back to me the angry face of U- with twitching, brick-red gills, on that morning when both of the… 
 
 I remember now, clearly, how I raised my eyes and laughed. A Socrates-like, bald-headed man was sitting before me; and small drops of sweat dotted the bald surface of his head.
 
@@ -3763,39 +3775,27 @@ Afterward—a deserted square heavily overloaded with tense wind. In the middle 
 
 I closed my eyes and sat down on the steps which led upward to the Machine. I must have been running hard, for my face was wet. From somewhere far away cries were coming. But nobody heard them; nobody heard me crying: "Save me from it—save me!"
 
-If only I had a mother as the ancients had—my mother, mine, for whom I should be not the Builder of the Integral, 
-
- and not D-53o, not a molecule of the United State, but merely a living human piece, a piece of herself, a trampled, smothered, cast-off piec…  And though I were driving the nails into the cross, or being nailed to it
-
-(perhaps it is the same), she would hear what no one else could hear, her old, grown-together, wrinkled lips RECORD THIRTY-SEVEN Infusorian Doomsday Her Room This morning while we were in the refectory my neighbor to my left whispered to me in a frightened tone:
+If only I had a mother as the ancients had—my mother, mine, for whom I should be not the Builder of the Integral, and not D-53o, not a molecule of the United State, but merely a living human piece, a piece of herself, a trampled, smothered, cast-off piec…  And though I were driving the nails into the cross, or being nailed to it (perhaps it is the same), she would hear what no one else could hear, her old, grown-together, wrinkled lips RECORD THIRTY-SEVEN Infusorian Doomsday Her Room This morning while we were in the refectory my neighbor to my left whispered to me in a frightened tone:
 
 "But why don't you eat? Don't you see, they are looking at you!"
 
 I had to pluck up all my strength to show a smile. I felt it—like a crack in my face; I smiled, and the borders of the crack drew apart wider and wider; it was quite painful.
 
-And then: no sooner had I lifted the small cube of paste upon my fork, than the fork jerked from my hand and tinkled against the plate. And at once the tables, the walls, the plates, even the air, trembled and rang; outside, too, an enormous, iron, round roar reaching the sky—
+And then: no sooner had I lifted the small cube of paste upon my fork, than the fork jerked from my hand and tinkled against the plate. And at once the tables, the walls, the plates, even the air, trembled and rang; outside, too, an enormous, iron, round roar reaching the sky—floating over heads and houses, it died away in the distance in small, hardly perceptible circles like those upon water.
 
-f l oating over heads and houses, it died away in the distance in small, hardly perceptible circles like those upon water.
-
-I saw faces instantaneously grow faded and bleached; I saw mouths filled with food suddenly motionless, and forks hanging in air. Then everything became confused, jumped off the centuries-old tracks; everybody jumped 
-
- up from his place (without singing the Hymn!) and confusedly, in disorder, hastily finishing chewing, choking, grasping one another They were asking: "What? What happened? What… " And the disorderly fragments of the Machine, which was once perfect and great, fell down in all directions—down the elevators, down the stairs Stamping of fee…  Pieces of words like pieces of torn letters carried by the wind. .
+I saw faces instantaneously grow faded and bleached; I saw mouths filled with food suddenly motionless, and forks hanging in air. Then everything became confused, jumped off the centuries-old tracks; everybody jumped up from his place (without singing the Hymn!) and confusedly, in disorder, hastily finishing chewing, choking, grasping one another They were asking: "What? What happened? What… " And the disorderly fragments of the Machine, which was once perfect and great, fell down in all directions—down the elevators, down the stairs Stamping of fee…  Pieces of words like pieces of torn letters carried by the wind. .
 
 The same outpour from the neighboring houses. A minute later the avenue seemed like a drop of water seen under a microscope: the infusoria locked up in the transparent, glass-like drop of water were tossing around, from side to side, up and down.
 
 "Ah!" Someone's triumphant voice. I saw the back of a neck, and a finger pointing to the sky. I remember very distinctly a yellowish-pinkish nail, and under the nail a crescent crawling out as if from under the horizon. Th… ger was like a compass; all eyes were raised to the sky.
 
-There, running away from invisible pursuit, masses of cloud were rushing upon each other; colored by the clouds, the aeros of the Guardians were floating with their tube-like antennae. And farther to the west—something like
-
-. At first nobody could understand what it was, even I, who knew (unfortunately) more than the others. It was like a great hive of black aeros swarming somewhere at an extraordinary height—they looked like hardly noticeable, swiftly moving point…  Nearer and neare…  Hoarse, guttural sounds began to reach the earth, and finally we saw birds just over our heads! They filled the sky with their sharp, black, descending triangles. The furious wind drove them down, and they began to land on the cupolas, on the roofs, poles, and balconies.
+There, running away from invisible pursuit, masses of cloud were rushing upon each other; colored by the clouds, the aeros of the Guardians were floating with their tube-like antennae. And farther to the west—something like. At first nobody could understand what it was, even I, who knew (unfortunately) more than the others. It was like a great hive of black aeros swarming somewhere at an extraordinary height—they looked like hardly noticeable, swiftly moving point…  Nearer and neare…  Hoarse, guttural sounds began to reach the earth, and finally we saw birds just over our heads! They filled the sky with their sharp, black, descending triangles. The furious wind drove them down, and they began to land on the cupolas, on the roofs, poles, and balconies.
 
 "Ah—ah!" and the triumphant back of the neck turned; again I saw that man with the protruding forehead, but it seemed that the name, so to speak, was all that was left of him: he seemed to have crawled out from under his forehead, and on his face, around the eyes and lips, RECORD THIRTY-SEVEN bunches of rays were growing. Through the noise of the wind and the wings and the cawing he cried to me:
 
 "Do you realize? Do you realize! They have blown up the Wall! The Wall has been blown up! Do you understand?"
 
-Somewhere in the background figures with their heads drawn in were hastily rushing by and into the houses. In the middle of the pavements was a mass of those who had already been operated upon; they moved toward the west
-
-… airy bunches of rays around the lips and eye… 
+Somewhere in the background figures with their heads drawn in were hastily rushing by and into the houses. In the middle of the pavements was a mass of those who had already been operated upon; they moved toward the west… airy bunches of rays around the lips and eye… 
 
 I grasped his hands:
 
@@ -3803,7 +3803,7 @@ I grasped his hands:
 
 ? I mus…  Do you hear me? At once
 
-…  canno… "
+… canno… "
 
 "Here!" he shouted in a happy, drunken voice, showing strong yellow teeth, "here in town, and she is acting! Oh, we are doing great work!"
 
@@ -3827,7 +3827,7 @@ The house—her house; the door ajar. The lobby, the
 
 Through the glass wall I could see everything in her room upside down, confused, creased: the table overturned, its legs in the air like a beast; the bed absurdly placed away from the wall, obliquely; strewn over the floor—fallen, trodden petals of pink checks.
 
-I bent over and picked up one, two, three of them.; all bore the name D-5o3. I was on all of them, drops of myself, of my molten, poured-out self. And that was all—that was lef… 
+I bent over and picked up one, two, three of them.; all bore the name D-503. I was on all of them, drops of myself, of my molten, poured-out self. And that was all—that was lef… 
 
 Somehow I felt they should not lie there on the floor and be trodden upon. I gathered a handful of them, put them on the table, and carefully smoothed them out, glanced at them, an…  laughed aloud! I never knew it before but now I know—and you, too, know—that laughter may be of different colors. Laughter is but a distant echo of an explosion within us; it may be the echo of a holiday
 
@@ -3839,15 +3839,22 @@ His face was like a pierced, empty bladder with folds; from beneath the puncture
 
 "Pleas…  listen Do you kno…  Number I-330?"
 
-The old man turned around, waved his hand in despair, and stumbled farther away RECORD THIRTY-SEVEN I returned home at dusk. On the west side the sky was twitching every second in a pale blue, electric convulsion; a subdued, heavy roar could be heard from that direction.
+The old man turned around, waved his hand in despair, and stumbled farther away. 
+
+---
+
+
+### RECORD THIRTY-SEVEN 
+
+I returned home at dusk. On the west side the sky was twitching every second in a pale blue, electric convulsion; a subdued, heavy roar could be heard from that direction.
 
 The roofs were covered with black, charred sticks—birds.
 
-I lay down; and instantly, like a heavy beast, sleep came and stifled me RECORD THIRTY-EIGHT I Don't Know What Title—Perhaps the Whole Synopsis May Be Called a Castoff Cigarette Butt I awoke. A bright glare painful to look at. I half-closed my eyes. My head seemed filled with some caustic blue smoke. Everything was enveloped in fog, and through the fog:
+I lay down; and instantly, like a heavy beast, sleep came and stifled me. I Don't Know What Title—Perhaps the Whole Synopsis May Be Called a Castoff Cigarette Butt I awoke. A bright glare painful to look at. I half-closed my eyes. My head seemed filled with some caustic blue smoke. Everything was enveloped in fog, and through the fog:
 
 "But I did not turn on the ligh…  then how is i… "
 
-I jumped up. At the table, leaning her chin on her hand and smiling, sat I-330, looking at me.
+I jumped up. At the table, leaning her chin on her hand and smiling, sat I-330, looking at me. 
 
 She was at the very table at which I am now writing.
 
@@ -3857,11 +3864,14 @@ I-330 was at the table. I rushed toward her.
 
 "You? You! I have bee…  I saw your room I thought yo… " But midway I hurt myself upon the sharp, motionless spears of her eyelashes, and I stopped. I remembered: she had looked at me in the same way before, in the Integral. I felt I had to tell her everything in one split second, and in such a way that she would surely believe, or she would neve… 
 
-RECORD THIRTY-EIGHT
 
-"Listen, I-330, I mus…  I must .
+---
 
-. everything! No, no, one moment—let me have a glass of water first."
+### RECORD THIRTY-EIGHT
+
+"Listen, I-330, I mus…  I must… stop everything!
+
+No, no, one moment—let me have a glass of water first."
 
 My mouth was as dry as if it were lined with blotting paper. I poured a glass of water but I couldn'…  I put the glass back upon the table, and with both hands firmly grasped the carafe.
 
@@ -3877,9 +3887,7 @@ Suddenly (it happens at times) you plunge into sweet, warm sleep—when all at o
 
 One more minute out of those ten or fifteen; her head thrown back, lying on the bright white pillow, her eyes half-closed, a sharp, sweet line of teet…  And all this reminded me in an irresistible, absurd, torturing way about something forbidden, something not permissible at that moment. More tenderly, more cruelly, I pressed her to myself, brighter grew the blue traces of my finger…  
 
- She said, without opening her eyes
-
-(I noticed this), "They say you went to see the Well-Doer yesterday; is it true?"
+She said, without opening her eyes (I noticed this), "They say you went to see the Well-Doer yesterday; is it true?"
 
 "Yes.."
 
@@ -3889,9 +3897,7 @@ I told her everything. Only for some reason, why I don't know (no, that's not tr
 
 Like the image on a photographic plate in a developin… id, her face gradually reappeared: the cheeks, the white line of teeth, the lips. She stood up and went to the mirror door of the closet. My mouth was dry again. I poured water but it was revolting to drink it; I put the glass back on the table and asked:
 
-"Did you come to see me because you wanted to inquire .
-
-. ?"
+"Did you come to see me because you wanted to inquire…?"
 
 A sharp, mocking triangle of brows drawn to the temples looked at me from the mirror. She turned around to say something, but said nothing.
 
@@ -3903,7 +3909,16 @@ When she left I sat down on the floor, bent over the cigarette but…
 
 I cannot write any more—I no longer want to!
 
-RECORD THIRTY-NINE The End All this was like the last crystal of salt thrown into a saturated solution; quickly, needle-like crystals began to appear, to grow more substantial and solid. It was all clear to me; the decision was made, and tomorrow morning I shall do it! It amounts to suicide, but perhaps then I shall be reborn. For only what is killed can be reborn.
+
+---
+
+### RECORD THIRTY-NINE 
+
+```
+The End 
+```
+
+All this was like the last crystal of salt thrown into a saturated solution; quickly, needle-like crystals began to appear, to grow more substantial and solid. It was all clear to me; the decision was made, and tomorrow morning I shall do it! It amounts to suicide, but perhaps then I shall be reborn. For only what is killed can be reborn.
 
 Every second the sky twitched convulsively there in the west. My head was burning and pulsating inside; I was up all night, and I fell asleep only at about seven o'clock in the morning, when the darkness of the night was already dispelled and becoming gray, and the roofs crowded with birds became visibl… 
 
@@ -3911,9 +3926,7 @@ I woke up; ten o'clock. Evidently the bell did not ring today. On the table—le
 
 The sky was deserted, blue, all eaten up by the storm.
 
-Sharp corners of shadow…  Everything seemed to be cut out of blue autumnal air—thin, dangerous to touch; it seemed so brittle, ready to disperse into glass dust. Within me something similar; I must not think; it was dangerous to think, fo…  
-
- And I did not think, perhaps I did not even see properly; I only registered impressions. There on the pavement, thrown from somewhere, branches were strewn; their leaves were green, amber, and cherry-red. Above, crossing each other, birds and aeros were tossing about. Here below heads, open mouths, hands waving branches . .
+Sharp corners of shadow…  Everything seemed to be cut out of blue autumnal air—thin, dangerous to touch; it seemed so brittle, ready to disperse into glass dust. Within me something similar; I must not think; it was dangerous to think, fo…  And I did not think, perhaps I did not even see properly; I only registered impressions. There on the pavement, thrown from somewhere, branches were strewn; their leaves were green, amber, and cherry-red. Above, crossing each other, birds and aeros were tossing about. Here below heads, open mouths, hands waving branches . .
 
 All this must have been shouting, buzzing, chirpin… 
 
@@ -3933,7 +3946,7 @@ Everybody laughed, and because of that laughter something rose in my throat; I f
 
 O… 
 
-RECORD THIRTY-NINE Suddenly from behind me someone touched my elbow.
+Suddenly from behind me someone touched my elbow.
 
 I turned around. Transparent wing ears! But they were not pink as usual; they were purplish red; his Adam's apple was tossing about as though ready to tear the coverin… 
 
@@ -3943,9 +3956,7 @@ I seized him.
 
 "Quickly! Please! Quickly…  into your offic…  must tell everythin…  right awa…  I am glad that yo… 
 
-It may be terrible that it should be you to who…  But it is good, it is good
-
-"
+It may be terrible that it should be you to who…  But it is good, it is good"
 
 He, too, knew her; this made it even more tormenting for me. But perhaps he, too, would tremble when he heard
 
@@ -3985,7 +3996,7 @@ Silence.
 
 Suddenly, like a flash of lightning, it became shamelessly clear to me: he—he, too— And everything about myself, my torment, all that I had brought here, crushed by the burden, plucking up my last strength as if performing a great feat, all appeared to me only funny—like the ancient anecdote about Abraham and Isaac: Abraham all in a cold sweat; with the knife already raised over his son, over himself, and suddenly a voice from above: "Never min…  I was only joking."
 
-Without taking my eyes from the smile that grew more and more curved, I put my hands on the edge of the desk and slowly, very slowly pushed myself with my chair away from him. Then instantly gathering myself into my RECORD THIRTY-NINE own hands, I dashed madly out, past loud voices, past steps and mouth… 
+Without taking my eyes from the smile that grew more and more curved, I put my hands on the edge of the desk and slowly, very slowly pushed myself with my chair away from him. Then instantly gathering myself into my own hands, I dashed madly out, past loud voices, past steps and mouth… 
 
 I do not remember how I got into one of the public rest rooms, in a station of the Underground Railway. Above, everything was perishing; the greatest civilization, the most rational in human history was crumbling, but here, by some irony, everything remained as before, beautiful.
 
@@ -4023,9 +4034,20 @@ What?"
 
 He had no time to answer. From above, down the steps stampin… 
 
-RECORD FORTY Facts The Bell I Am Certain Daylight. It is clear. The barometer-76o mm.
+---
 
-Is it possible that I, D-5o3, really wrote these—pages? Is it possible that I ever felt, or imagined I felt, all this?
+### RECORD FORTY 
+
+```
+Facts 
+The Bell 
+I Am 
+Certain Daylight. 
+```
+
+It is clear. The barometer-760 mm.
+
+Is it possible that I, D-503, really wrote these—pages? Is it possible that I ever felt, or imagined I felt, all this?
 
 The handwriting is mine. And what follows is all in my handwriting. Fortunately, only the handwriting. No more delirium, no absurd metaphors, no feelings—only facts.
 
@@ -4035,9 +4057,9 @@ For I am healthy—perfectly, absolutely health…  am smiling; I cannot help sm
 
 The facts are as follows: That evening my neighbor who discovered the finiteness of the universe, and I, and all others who did not have a certificate showing that we had been operated on, all of us were taken to the nearest auditorium.
 
-(For some reason the number of the auditorium, 112, seemed familiar to me.) There they tied us to the tables and performed the great operation. Next day, I, D-5o3, appeared before the Well-Doer and told him everything known to me about the enemies of happiness. Why, before, it had seemed hard for me to go, I cannot understand. The only explanation seems to be my illness—my soul.
+(For some reason the number of the auditorium, 112, seemed familiar to me.) There they tied us to the tables and performed the great operation. Next day, I, D-503, appeared before the Well-Doer and told him everything known to me about the enemies of happiness. Why, before, it had seemed hard for me to go, I cannot understand. The only explanation seems to be my illness—my soul.
 
- That same evening, sitting at the same table with Him, with the Well-Doer, I saw for the first time in my life the famous Gas Chamber. They brought in that woman. She was to testify in my presence. She remained stubbornly silent and smiling. I noticed that she had sharp and very white teeth which were very pretty.
+That same evening, sitting at the same table with Him, with the Well-Doer, I saw for the first time in my life the famous Gas Chamber. They brought in that woman. She was to testify in my presence. She remained stubbornly silent and smiling. I noticed that she had sharp and very white teeth which were very pretty.
 
 Then she was brought under the Bell. Her face became very white, and as her eyes were large and dark, all was very pretty. When they began pumping the air from under the Bell she threw her head back and half-closed her eyes; her lips were pressed together. This reminded me of something. She looked at me, holding the arms of the chair firmly. She continued to look until her eyes closed. Then she was taken out and brought back to consciousness by means of electrodes, and again she was put under the Bell. The procedure was repeated three times, yet she did not utter a word.
 
