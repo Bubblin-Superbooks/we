@@ -7,5 +7,17 @@
     "CSS": "css",
     "JS": "js",
     "HEAD": "html"
-  }
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "asset_url": "",
+  "source_url": "",
+  "start_page": "9",
+  "book_url": "http://bubblin.io/book/we-by-eugene-zamyatin",
+  "book_id": 824
 }
