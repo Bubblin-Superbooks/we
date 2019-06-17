@@ -3,16 +3,18 @@
 A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin Superbooks](https://bubblin.io/about) - the online café of books.
 
 
-[![Superbook up](https://img.shields.io/badge/superbook-up-down-green-red.svg)](https://shields.io/)
-
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
+[![Superbook up](https://img.shields.io/badge/superbook-ready-green.svg)](https://shields.io/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## LICENSE
 
 
-All content for the book is inside `manuscript/` folder and is either public domain or available under a uitable Free Culture [![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
-license.
+All content for the book is inside `manuscript/` folder and is either public domain or available under Free Culture licenses. Your options are:- 
+
+[![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
+
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 ## TABLET FIRST
 
