@@ -1,5 +1,5 @@
 {
-  "name": "we",
+  "name": "We",
   "type": "text",
   "has_page_numbers": false,
   "mode": {
@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "A 1921 blueprint for authoritarian dystopia",
     "toc": "",
     "author_detail": "",
     "colophon": "",
