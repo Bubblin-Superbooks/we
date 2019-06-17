@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin Superbooks](https://bubblin.io/about) - the online café of books.
+A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin](https://bubblin.io/about)-_the online café of books_ and the makers of [Bookiza](https://bookiza.io)—a book reification framework for the web.
 
 
 [![Superbook published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://shields.io/)
