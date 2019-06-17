@@ -3,14 +3,16 @@
 A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin Superbooks](https://bubblin.io/about) - the online café of books.
 
 
-[![Superbook published](https://img.shields.io/badge/Superbook-published.svg)](https://shields.io/)
+[![Superbook published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://shields.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## LICENSE
 
 
-All content for the book is inside `manuscript/` folder and is either public domain or available under Free Culture licenses. Your options are:- 
+This Superbook is either public domain or available under a Free Culture license. 
+
+Your options are:- 
 
 [![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
 
