@@ -3,7 +3,7 @@
 A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin Superbooks](https://bubblin.io/about) - the online café of books.
 
 
-[![Superbook badge](https://img.shields.io/badge/superbook-ready-green.svg)](https://shields.io/)
+[![Superbook up](https://img.shields.io/badge/superbook-up-down-green-red.svg)](https://shields.io/)
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
