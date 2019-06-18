@@ -1,5 +1,5 @@
 
-A nifty read for book-lovers on web. 
+A nifty classic for book-lovers on the web. 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
@@ -7,26 +7,29 @@ A nifty read for book-lovers on web.
 
 
 
-[![Status published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+[![Status: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 # INTRODUCTION
 
-This Superbook is brought to you by [Bubblin Superbooks](https://bubblin.io/about)—_the online café of books_. 
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—_the online café of books_. 
 
 
 
 ## LICENSE
 
-The contents of this book i.e. the `manuscript` is either public domain or available under a Free Culture license. 
+The contents of this book i.e. the `manuscript` is either public domain works or is available under a Free Culture license. 
 
 Your options are:- 
 
 [![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
 
 [![BlueOak license](https://img.shields.io/badge/Blueoak-Council-darkblue.svg)](https://bubblin.io/license)
+
+
+The sourcecode and the libraries under the book are licensed according to options made available by their respective owners.
 
 ## TABLET FIRST
 
