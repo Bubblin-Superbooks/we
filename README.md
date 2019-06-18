@@ -1,9 +1,10 @@
 # INTRODUCTION
 
-A nifty read for book-lovers on web. This Superbook has been built by the web people @[bubblin](https://bubblin.io/about)-_the online café of books_. 
+A nifty read for book-lovers on web. 
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
+@[bubblin Superbooks](https://bubblin.io/about)-_the online café of books_. 
 
 
 [![Status published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
