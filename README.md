@@ -28,7 +28,7 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few libraries. 
 
 
-:point_right: The git repo here is the `manuscript` whereas the book is live and served hot on production. This difference in the state of work is part of the publishing vocabulary with Bookiza, you may note.
+:point_right: The git repo here is the `manuscript` whereas the book is _live_ and served hot on production. This difference in the state of work is part of the vocabulary when publishing with Bookiza, note.
 
 
 ### FULLSCREEN MODE:
@@ -37,9 +37,9 @@ To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscr
 
 - Open the book on iOS (> 12.00) Safari
 - Tap the `...` button at bottom right of the screen to open Superbook controls.
-- Tap `𝄪` on the top right (middle button) to go fullscreen.
+- Tap `⤮` on the top right (middle button) to go fullscreen.
 
-Supported on iPadOS Safari v12.0 and above. 
+Supported on iPadOS Safari v12.0 and above only. 
 
 ## HACKING, FIXES AND TRANSLATIONS
 
