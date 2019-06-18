@@ -12,9 +12,9 @@ This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](
 
 ### TABLET FIRST & OFFLINE FIRST
 
-Best if consumed on a 9" tablet (iPad or Galaxy) but will work everywhere. A Superbook is generally [supported](https://bubblin.io/support) on all devices and desktops — viz. all viewports, all modern browsers and all operating systems. See the full list of devices covered.
+The book will work everywhere (from Apple Watch to OLED TVs), though it is best experienced on a 9" tablet (iPad) with a modern browser. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems. See our full list [here](https://bubblin.io/support).
 
-The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book.
+The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
  
 
 [![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
@@ -28,12 +28,12 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few libraries. 
 
 
-:point_right: Note the git repo here is the `manuscript` whereas the book is live and served hot on production. That difference in state of consumer readiness may be  
+:point_right: The git repo here is the `manuscript` whereas the book is live and served hot on production. That difference in state of consumer readiness may be  
 
 
 ### FULLSCREEN MODE:
 
-To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad):
+To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad), please try these steps:
 
 - Open the book on iOS (> 12.00) Safari
 - Tap the `...` button at bottom right of the screen to open Superbook controls.
@@ -84,10 +84,9 @@ The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenb
 
 ## LICENSE
 
-The body of text on this book i.e. manuscript (the text and illustrations) is either in public domain or is available under a Free Culture license at source. 
+The body of work on this book i.e. manuscript (text, illustrations etc.) is either in public domain or is available under a Free Culture license as indicated below:
 
-Contents: [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-
+The code and libraries in use under this Superbook have been provided by their respective owners under suitable licensing.
