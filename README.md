@@ -6,149 +6,88 @@ A nifty classic for book-lovers on the web.
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Publishing Company For The Web. 
 
-[![Status: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+
+[![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
 
 
-# INTRODUCTION
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—_the online café of books_. 
+## TABLET FIRST & OFFLINE FIRST
+
+Best if consumed on a 9" tablet (iPad or Galaxy) but will work everywhere. A Superbook is generally [supported](https://bubblin.io/support) on all devices and desktops — viz. all viewports, all modern browsers and all operating systems. See the full list of devices covered.
+
+The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book.
+ 
+## THE MANUSCRIPT (this repo)
+
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io) and [h2s](https://github.com/bookiza/h2s). 
 
 
+:point_right: Note a git repo like this is the `manuscript` whereas the actual book is live and served hot on production mode on a url placed on the top of this repository. 
+
+
+## FULLSCREEN MODE:
+
+Use latest iPadOS Safari to be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad).
+
+- Open the book on iOS (> 12.00) Safari
+- Tap the `...` button at bottom right of the screen to open Superbook controls.
+- Tap `𝄪` on the top right (middle button) to go fullscreen.
+
+
+# A. HACKING THE BOOK, B. SUBMITTING FIXES OR C. TRANSLATIONS
+
+
+#### A. HACKING THE BOOK
+
+If you want to create your own edition of Pride & Prejudice in your style with art and illustrations of your own, we recommend the following steps: 
+
+	1. Fork the repository to your Github Account,
+	2. Clone the forked repo to your local,
+	3. Install [Bookiza](https://bookiza.io) (requires node and npm),
+	4. `cd` into the repo and `$ npm install`
+	5. Start the server: $ bookiza server
+
+The Bookiza server will compile the manuscript and open the book on `localhost:4567`. 
+
+
+Feel free to modify the contents of the book, add new art and illustrations to it and republish your own new edition to sell it. If you create a new avatar of this book please do tell us about it! 
+
+We love looking at interesting new work from people across the world and will be happy to help you publish online!
+
+
+#### A. SUBMITTING FIXES
+
+PRs are absolutely welcome! 
+
+Issues pertaining to only this book may be raised on the current Github repository. 
+
+
+#### C. TRANSLATIONS
+
+Translation to other languages or new takes of English itself from the original (old) script may earn you a copyright. If you fork a new edition with a translation of your own, we might consider your work for a premium publication.
+
+### CREDIT:
+
+The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenberg.org).
+
+
+
+### CONTACT US
+
+<a href="https://bubblin.io/blog/contact">Contact us</a> by mail **once** if someone on our team doesn't already respond within 24 hours. Sometimes we get a lot of mail. Do not follow-up with a second mail unless absolutely necessary.
 
 ## LICENSE
 
-The contents of this book i.e. the `manuscript` is either public domain works or is available under a Free Culture license. 
+All contents of this book i.e. the text @`manuscript` is either public domain works or is available under a Free Culture license. 
 
-Your options are:- 
+Text: [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
-[![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
+Illustrations: [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
-[![BlueOak license](https://img.shields.io/badge/Blueoak-Council-darkblue.svg)](https://bubblin.io/license)
+Code: All libraries used to produce this book are licensed under permissive open source licenses like MIT or Blueoak. 
 
-
-The sourcecode and the libraries under the book are licensed according to options made available by their respective owners.
-
-## TABLET FIRST
-
-This manuscript (repo) will render into a `tablet-first` responsive Superbook. The manuscript has been generated programmatically using `nodejs` and `bookiza` and outputted as plain HTML, CSS and JavaScript i.e. building blocks of web. Live book (demo) is available on the url provided at the top.
-
-Read a timeless classic on web and share it generously with your friends. It's FREE! In fact please help us spread the word by sharing this book in your network - especially among children.
-
-## SUPPORT
-Best experienced on 9" iPad but works (nearly) everywhere - iPhones, Android phones & tablets, Kindle Fire HD, desktops, TVs, laptops. See [details](https://bubblin.io/support) for more information.
-
-:point_right: Research suggests that books (both physical and electronic) are best experienced on 9" tablets.
-
-We hear you Steve Jobs, we hear you still!
-
-## THE MANUSCRIPT
-This repo is the manuscript while the actual compiled book is hosted and rendered live on the writer's url at the top.
-
-
-## RECOMMENDED DEVICE/BROWSER:
-
-Apple iPad + Google Chrome. You can also do the following:
-
-- Open the on iOS Safari (or your favorite browser). Start reading…
-- Tap the `Share` button at the top of the screen.
-- Tap `Add to Home Screen`… if you like that sort of a thing.
-
-
-### HACK IT IN YOUR OWN STYLE
-
-Feel free to clone this manuscript and play with it. You can modify its content, layout or make fresh artwork (imagery) of your own for it and republish. If you do make something please tell us about it. We love looking at interesting work from people and might even share it with our community!
-
-How:
-
-```
-$ git clone <manuscript> && cd <manuscript>
-$ npm install
-$ bookiza server
-
-```
-
-Bookiza server will compile the manuscript and open the book on `localhost:4567`.
-
-Read about [node](https://nodejs.org/en/), [bookiza](http://bookiza.io) and [bubblin](https://bubblin.io) to get started.
-
-### PROJECT
-This app was created using [bookiza](https://bookiza.io) -- a "book baking" tool.
-
-The TREE of the manuscript looks somewhat like this:
-
-```
-
-PROJECT/
-├── README.md
-├── assets
-│   ├── css
-│   ├── images
-│   └── scripts
-├── cover
-│   ├── back.jpg
-│   ├── cover.psd
-│   ├── front.jpg
-│   ├── spine.jpg
-│   └── spine.psd
-├── license.txt
-├── manuscript
-│   ├── page-1
-│   │   ├── body.html
-│   │   └── style.css
-│   ├── page-2
-│   │   ├── body.html
-│   │   └── style.css
-│   ├── page-3
-│   │   ├── body.html
-│   │   └── style.css
-│   ├── page-4
-│   │   ├── body.html
-│   │   └── style.css
-│   ├── page-5
-│   │   ├── body.html
-│   │   └
-│   ├──
-│   │  
-│   │  
-│   ├──
-│   │  
-│   │  
-│   ├── page-2N-1
-│   │   ├── body.html
-│   │   └── style.css
-│   └── page-2N
-│       ├── body.html
-│       └── style.css
-├── templates
-│   ├── head.html
-│   ├── style.css
-│   ├── body.html
-│   └── script.js
-└── trash
-
-
-```
-## CREDITS:
-This manuscript was licensed via [Gutenberg](http://gutenberg.org)
-
-Please read license terms of other softwares/libraries and their respective owners who have contributed directly or indirectly into this project.
-
-## CONTRIBUTION/FIXES
-
-Feel free to report issues or submit fixes to help improve the code.
-
-1. Fork it using `git`.
-2. Create your feature branch (`git checkout -b my-new-page`)
-3. Commit your changes (`git commit -am 'Added a page on (/topic)'`)
-4. Push to the branch (`git push origin my-new-page`)
-5. Create a new Pull Request
-6. <a href = "mailto:marvin@bubbl.in">Contact me</a> if I/someone on my team doesn't respond within 24 hours. I get a lot of mail, so do not follow-up with a second mail before 24 hours.
-
-## Licenses
-
-Various! But, primarily:
-
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
