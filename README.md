@@ -3,10 +3,10 @@ A nifty classic for book-lovers on the web.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out-live.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. <img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="24px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
 
