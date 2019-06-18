@@ -2,8 +2,9 @@
 A nifty read for book-lovers on web. 
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
-@[bubblin Superbooks](https://bubblin.io/about)-_the online café of books_. 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+
 
 
 [![Status published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
@@ -13,11 +14,13 @@ A nifty read for book-lovers on web.
 
 # INTRODUCTION
 
+This Superbook is brought to you by [Bubblin Superbooks](https://bubblin.io/about)—_the online café of books_. 
+
+
 
 ## LICENSE
 
-
-This Superbook is either public domain or available under a Free Culture license. 
+The contents of this book i.e. the `manuscript` is either public domain or available under a Free Culture license. 
 
 Your options are:- 
 
