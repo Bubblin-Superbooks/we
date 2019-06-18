@@ -12,7 +12,7 @@ This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](
 
 ### TABLET FIRST & OFFLINE FIRST
 
-The book will work everywhere (from Apple Watch to OLED TVs), though it is best experienced on a 9" tablet (iPad) with a modern browser. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems. See our full list [here](https://bubblin.io/support).
+The book will work everywhere responsively (from Apple Watch to OLED TVs), though it is best experienced on a 9" tablet (iPad) with a modern browser. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems. See our full list [here](https://bubblin.io/support).
 
 The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
  
@@ -28,7 +28,7 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few libraries. 
 
 
-:point_right: The git repo here is the `manuscript` whereas the book is live and served hot on production. That difference in state of consumer readiness may be  
+:point_right: The git repo here is the `manuscript` whereas the book is live and served hot on production. This difference in the state of work is part of the publishing vocabulary with Bookiza, you may note.
 
 
 ### FULLSCREEN MODE:
@@ -57,9 +57,9 @@ If you want to create your own edition of Pride & Prejudice in your style with a
 The Bookiza server will compile the manuscript and open the book on `localhost:4567`. 
 
 
-Feel free to modify the contents of the book, add new art and illustrations to it and republish your own new edition to sell it. If you create a new avatar of this book please do tell us about it! 
+Feel free to modify the contents of the book, add new art and illustrations to it and republish your own new edition to sell it. If you choose to create a new avatar of this book, please leave us a note here!
 
-We love looking at interesting new work from people across the world and will be happy to help you publish online!
+We love looking at interesting new work from people across the world and will be happy to help you publish online.
 
 
 #### A. SUBMITTING FIXES
@@ -89,4 +89,4 @@ The body of work on this book i.e. manuscript (text, illustrations etc.) is eith
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-The code and libraries in use under this Superbook have been provided by their respective owners under suitable licensing.
+The sourcecode (libraries) in use for this book have been licensed by their respective owners. 
