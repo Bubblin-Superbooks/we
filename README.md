@@ -12,7 +12,7 @@ This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](
 
 ### TABLET FIRST & OFFLINE FIRST
 
-The book will work everywhere responsively (from Apple Watch to OLED TVs), though it is best experienced on a 9" tablet (iPad) with a modern browser. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems. See our full list [here](https://bubblin.io/support).
+The book will work everywhere responsively though it is best experienced (recommended) on a 9" tablet (iPad/Galaxy) with a modern browser. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/support).
 
 The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
  
@@ -25,7 +25,7 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 
 ### MANUSCRIPT (this repo)
 
-The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few libraries. 
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few other sanitization libraries. 
 
 
 :point_right: The git repo here is the `manuscript` whereas the book is _live_ and served hot on production. This difference in the state of work is part of the vocabulary when publishing with Bookiza, note.
@@ -39,7 +39,7 @@ To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscr
 - Tap the `...` button at bottom right of the screen to open Superbook controls.
 - Tap `⤮` on the top right (middle button) to go fullscreen.
 
-Supported on iPadOS Safari v12.0 and above only. 
+Supported on iPadOS Safari v12.0 and above. 
 
 ## HACKING, FIXES AND TRANSLATIONS
 
@@ -62,11 +62,11 @@ Feel free to modify the contents of the book, add new art and illustrations to i
 We love looking at interesting new work from people across the world and will be happy to help you publish online.
 
 
-#### A. SUBMITTING FIXES
+#### B. SUBMITTING FIXES
 
 PRs are absolutely welcome! 
 
-Issues pertaining to only this book may be raised on the current Github repository. 
+Issues pertaining to only this book may be raised on this Github repository. 
 
 
 #### C. TRANSLATIONS
