@@ -3,11 +3,14 @@
 A nifty read for book-lovers on web. This Superbook has been built by the web people @[bubblin](https://bubblin.io/about)-_the online café of books_. 
 
 
-[![Superbook published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://shields.io/)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
+
+
+[![Status published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-[![forthebadge made-with-node](http://ForTheBadge.com/images/badges/made-with-node.svg)](https://www.nodejs.org/)
+
 
 ## LICENSE
 
