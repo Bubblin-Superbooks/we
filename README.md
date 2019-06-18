@@ -6,13 +6,14 @@ A nifty classic for book-lovers on the web.
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="18px" title="Bubblin Superbooks">](https://bubblin.io)
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="16px" title="Bubblin Superbooks">](https://bubblin.io) [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web.
 
 
 
 ### TABLET FIRST & OFFLINE FIRST
 
-Superbooks are responsive and generally [supported](https://bubblin.io/support) on all browsers and devices but the most ideal surface (recommended) to read the book on is a ~9" tablet like the iPad or Galaxy Tab. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
+Superbooks are responsive and generally [supported](https://bubblin.io/support) on all browsers and devices but the most ideal surface (recommended) to read the book on is a \~9" tablet like the iPad or Galaxy Tab. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
+
 
 The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book offline.
  
