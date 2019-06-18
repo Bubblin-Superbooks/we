@@ -3,15 +3,14 @@ A nifty classic for book-lovers on the web.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out-live.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Publishing Company For The Web. 
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. <img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">
 
 
 
-
-## TABLET FIRST & OFFLINE FIRST
+### TABLET FIRST & OFFLINE FIRST
 
 Best if consumed on a 9" tablet (iPad or Galaxy) but will work everywhere. A Superbook is generally [supported](https://bubblin.io/support) on all devices and desktops — viz. all viewports, all modern browsers and all operating systems. See the full list of devices covered.
 
@@ -24,24 +23,25 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 [![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
 
 
-## THE MANUSCRIPT (this repo)
+### MANUSCRIPT (this repo)
 
-The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io) and [h2s](https://github.com/bookiza/h2s). 
-
-
-:point_right: Note a git repo like this is the `manuscript` whereas the actual book is live and served hot on production mode on a url placed on the top of this repository. 
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few libraries. 
 
 
-## FULLSCREEN MODE:
+:point_right: Note the git repo here is the `manuscript` whereas the book is live and served hot on production. That difference in state of consumer readiness may be  
 
-Use latest iPadOS Safari to be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad).
+
+### FULLSCREEN MODE:
+
+To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscreen-api-ipad):
 
 - Open the book on iOS (> 12.00) Safari
 - Tap the `...` button at bottom right of the screen to open Superbook controls.
 - Tap `𝄪` on the top right (middle button) to go fullscreen.
 
+Supported on iPadOS Safari v12.0 and above. 
 
-# A. HACKING THE BOOK, B. SUBMITTING FIXES OR C. TRANSLATIONS
+## HACKING, FIXES AND TRANSLATIONS
 
 
 #### A. HACKING THE BOOK
