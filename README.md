@@ -47,20 +47,17 @@ iPadOS Safari v12.0 and above only.
 
 #### A. HACKING THE BOOK
 
-If you want to create your own edition of Pride & Prejudice in your style with art and illustrations of your own, we recommend the following steps: 
+For example, if you want to craft your own edition of `Pride & Prejudice`, add your own typesetting or art or illustrations, follow the below given steps: 
 
-	1. Fork the repository to your Github Account,
-	2. Clone the forked repo to your local,
+	1. Fork this repository to your own Github Account,
+	2. Clone the forked project to your local,
 	3. Install [Bookiza](https://bookiza.io) (requires node and npm),
-	4. `cd` into the repo and `$ npm install`
+	4. `cd` into the repo and `$ npm install` to install the dependencies
 	5. Start the server: $ bookiza server
 
-The Bookiza server will compile the manuscript and open the book on `localhost:4567`. 
+The Bookiza server will build the manuscript and serve the book on `localhost:4567`. Open the project on your favorite text editor (Visual Studio, Sublime) and hack away!
 
-
-Feel free to modify the contents of the book, add new art and illustrations to it and republish your own new edition to sell it. If you choose to create a new avatar of this book, please leave us a note here!
-
-We love looking at interesting new work from people across the world and will be happy to help you publish online.
+Feel Free to republish your own new edition or sell it. If you choose to create a new avatar of this book, please leave us a note here! We love looking at interesting new takes from people across the world and will be super happy to help you publish the new edition online.
 
 
 #### B. SUBMITTING FIXES
