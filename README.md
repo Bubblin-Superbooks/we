@@ -73,10 +73,9 @@ Issues pertaining to only this book may be raised on the current Github reposito
 
 Translation to other languages or new takes of English itself from the original (old) script may earn you a copyright. If you fork a new edition with a translation of your own, we might consider your work for a premium publication.
 
-### CREDIT:
+### SOURCE:
 
 The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenberg.org).
-
 
 
 ### CONTACT US
@@ -85,10 +84,9 @@ The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenb
 
 ## LICENSE
 
-All contents of this book i.e. the text @`manuscript` is either public domain works or is available under a Free Culture license. 
+The body of text on this book i.e. manuscript (the text and illustrations) is either in public domain or is available under a Free Culture license at source. 
 
-Contents : [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
-Code:  [![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
+Contents: [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
