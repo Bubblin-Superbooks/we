@@ -57,7 +57,7 @@ For example, if you want to craft your own edition of `Pride & Prejudice`, add y
 
 The Bookiza server will build the manuscript and serve the book on `localhost:4567`. Open the project on your favorite text editor (Visual Studio, Sublime) and hack away!
 
-Feel Free to republish your own new edition or sell it. If you choose to create a new avatar of this book, please leave us a note here! We love looking at interesting new takes from people across the world and will be super happy to help you publish the new edition online.
+Feel Free to republish your own new edition! If you create a new avatar of this book, please leave us a note here. We love looking at interesting new takes from people across the world and will also be super happy to help you publish it online.
 
 
 #### B. SUBMITTING FIXES
