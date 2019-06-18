@@ -6,7 +6,7 @@ A nifty classic for book-lovers on the web.
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="24px" title="Bubblin Superbooks">](https://bubblin.io)
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="18px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
 
@@ -39,7 +39,7 @@ To be able to read the book in [fullscreen mode](https://bubblin.io/blog/fullscr
 - Tap the `...` button at bottom right of the screen to open Superbook controls.
 - Tap `⤮` on the top right (middle button) to go fullscreen.
 
-Supported on iPadOS Safari v12.0 and above. 
+iPadOS Safari v12.0 and above only.
 
 ## HACKING, FIXES AND TRANSLATIONS
 
