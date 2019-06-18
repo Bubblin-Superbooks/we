@@ -1,11 +1,13 @@
 # INTRODUCTION
 
-A nifty read for book-lovers on web, this Superbook is brought to you by the web people @[Bubblin](https://bubblin.io/about)-_the online café of books_ and the makers of [Bookiza](https://bookiza.io)—a book reification framework for the web.
+A nifty read for book-lovers on web. This Superbook has been built by the web people @[bubblin](https://bubblin.io/about)-_the online café of books_. 
 
 
 [![Superbook published](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://shields.io/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+
+[![forthebadge made-with-node](http://ForTheBadge.com/images/badges/made-with-node.svg)](https://www.nodejs.org/)
 
 ## LICENSE
 
