@@ -9,11 +9,6 @@ A nifty classic for book-lovers on the web.
 This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Publishing Company For The Web. 
 
 
-[![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
-
 
 
 ## TABLET FIRST & OFFLINE FIRST
@@ -22,6 +17,13 @@ Best if consumed on a 9" tablet (iPad or Galaxy) but will work everywhere. A Sup
 
 The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book.
  
+
+[![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
+
+
 ## THE MANUSCRIPT (this repo)
 
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io) and [h2s](https://github.com/bookiza/h2s). 
@@ -86,7 +88,6 @@ The scroll (or file) of this book was sourced from [Gutenberg.org](http://gutenb
 All contents of this book i.e. the text @`manuscript` is either public domain works or is available under a Free Culture license. 
 
 Contents : [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
-
 Code:  [![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
 
 
