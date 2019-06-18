@@ -1,4 +1,3 @@
-# INTRODUCTION
 
 A nifty read for book-lovers on web. 
 
@@ -12,6 +11,8 @@ A nifty read for book-lovers on web.
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
+# INTRODUCTION
+
 
 ## LICENSE
 
@@ -22,7 +23,7 @@ Your options are:-
 
 [![CC BY](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)  
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![BlueOak license](https://img.shields.io/badge/Blueoak-Council-darkblue.svg)](https://bubblin.io/license)
 
 ## TABLET FIRST
 
