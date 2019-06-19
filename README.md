@@ -10,6 +10,7 @@ A nifty classic for book-lovers on the web.
 This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. 
 
 
+Date of publication: <date>June 17, 2019.</date>
 
 ### TABLET FIRST & OFFLINE FIRST
 
@@ -21,8 +22,8 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 
 [![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://bubblin.io/license)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
+[![Blueoak license](https://img.shields.io/badge/Blueoak-Council-blue.svg)](https://blueoakcouncil.org/license/1.0.0)
 
 
 ### MANUSCRIPT (this repo)
