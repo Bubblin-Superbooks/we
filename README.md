@@ -12,7 +12,7 @@ This [Superbook](https://bubblin.io/docs/format) is brought to you by [<img src=
 
 ### TABLET FIRST & OFFLINE FIRST
 
-Superbooks are responsive and generally [supported](https://bubblin.io/support) on all browsers and devices but the most ideal surface (recommended) to read the book on is a \~9" tablet like the iPad or Galaxy Tab. We try to suppport all devices and desktops—viz. all viewports, all modern browsers and all operating systems from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
+Superbooks are responsive and generally [supported](https://bubblin.io/support) on all browsers and devices but the most ideal surface (recommended) to read the book on are \~9" tablets like the iPad or the Galaxy Tab. We try to suppport all devices and desktops—meaning, all modern browsers, all viewports and all operating systems starting at an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
 
 
 The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book offline.
@@ -29,7 +29,7 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few other sanitization libraries. 
 
 
-:point_right: The git repo here is the `manuscript` whereas the book is _live_ and served hot on production. This difference in the state of work is part of the vocabulary when publishing with Bookiza, note.
+:point_right: This git repository is the `manuscript` whereas the final book is _live_ and served hot on production. This difference in the 'state of work' is part of the vocabulary when publishing with Bookiza, note.
 
 
 ### FULLSCREEN MODE:
@@ -47,7 +47,7 @@ iPadOS Safari v12.0 and above only.
 
 #### A. HACKING THE BOOK
 
-For example, if you want to craft your own edition of `Pride & Prejudice`, add your own typesetting or art or illustrations, follow the below given steps: 
+For example, if you want to mint your own edition of `Pride & Prejudice` (like typesetting it yourself or adding art or illustrations to the book), follow the below given steps: 
 
 	1. Fork this repository to your own Github Account,
 	2. Clone the forked project to your local,
@@ -57,7 +57,7 @@ For example, if you want to craft your own edition of `Pride & Prejudice`, add y
 
 The Bookiza server will build the manuscript and serve the book on `localhost:4567`. Open the project on your favorite text editor (Visual Studio, Sublime) and hack away!
 
-Feel Free to republish your own new edition! If you create a new avatar of this book, please leave us a note here. We love looking at interesting new takes from people across the world and will also be super happy to help you publish it online.
+Feel free to republish your own new edition! If you create a new avatar of this book, please leave us a note here. We love looking at interesting new takes from people across the world and will also be super happy to help you publish it online.
 
 
 #### B. SUBMITTING FIXES
