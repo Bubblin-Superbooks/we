@@ -1,5 +1,5 @@
 
-A nifty classic for book-lovers on the web.
+A nifty classic for book-lovers on the web. Go [here](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter) to read the book.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
@@ -7,7 +7,7 @@ A nifty classic for book-lovers on the web.
 [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company for The Web.
+This book uses the [Superbook](https://bubblin.io/docs/format) format and is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company for The Web.
 
 
 > Date of publication: <date>June 17, 2019.</date>
