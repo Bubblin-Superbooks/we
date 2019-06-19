@@ -1,3 +1,5 @@
-# Hybrid public domain license:
+# Hybrid Public Domain License:
 
-Generally the source code is available under MIT or Blueoak Council specified on each library in use. And the content i.e. the text and the illustrations of the book are either in public domain or made available under a Free Culture license as indicated on the repository.
+- The sourcecode under this repository is available under MIT or Blueoak Council specified on each library in use by their respective owners. 
+
+- The content i.e. the materials such as text and illustrations on the book are either in public domain or made available under a Free Culture license as specified on this repository.
