@@ -14,11 +14,11 @@ This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](
 
 ### TABLET FIRST & OFFLINE FIRST
 
-Superbooks are naturally responsive and are generally [supported](https://bubblin.io/support) across all browsers and devices. However, the most ideal surface to read these books on (recommended) are the \~9" tablets like the iPad or the Galaxy Tab. We try and suppport all devices and desktops—meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
+Superbooks are naturally responsive and are generally [supported](https://bubblin.io/support) across all browsers and devices. However, the most ideal surface to read these books on (recommended) are the \~9" tablets like the iPad or the Galaxy Tab. 
 
-Feel free to raise an issue specific to this book with a marked screenshot of how it appears on your device.
+We try and suppport all devices and desktops—meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list of supported devices [here](https://bubblin.io/devices). Feel free to raise an issue specific to this book with a marked screenshot of how it appears on your device.
 
-> The live book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
+The live book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
 
 
 [![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
