@@ -10,7 +10,7 @@ A nifty classic for book-lovers on the web.
 This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. 
 
 
-Date of publication: <date>June 17, 2019.</date>
+> Date of publication: <date>June 17, 2019.</date>
 
 ### TABLET FIRST & OFFLINE FIRST
 
