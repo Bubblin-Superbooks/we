@@ -29,10 +29,10 @@ The live book is _offline-first_ using a Service Worker, so no explicit download
 
 ### MANUSCRIPT (this repo)
 
-The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few other sanitization libraries.
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and a few other markup sanitization libraries.
 
 
-:point_right: This git repository is the `manuscript` whereas the final book is _live_ and served hot on production. This difference in the 'state of work' is part of the vocabulary when publishing with Bookiza, note.
+:point_right: Note, this git repository is the `manuscript` while the book is _live_ and served hot on the url provided on top. This difference in the 'state of work' is part of the vocabulary when publishing with Bookiza.
 
 
 ### FULLSCREEN MODE:
