@@ -1,5 +1,5 @@
 
-A nifty classic for book-lovers on the web. 
+A nifty classic for book-lovers on the web.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
@@ -7,18 +7,19 @@ A nifty classic for book-lovers on the web.
 [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. 
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company for The Web.
 
 
 > Date of publication: <date>June 17, 2019.</date>
 
 ### TABLET FIRST & OFFLINE FIRST
 
-Superbooks are responsive and generally [supported](https://bubblin.io/support) on all browsers and devices but the most ideal surface (recommended) to read the book on are \~9" tablets like the iPad or the Galaxy Tab. We try to suppport all devices and desktops—meaning, all modern browsers, all viewports and all operating systems starting at an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
+Superbooks are naturally responsive and are generally [supported](https://bubblin.io/support) across all browsers and devices. However, the most ideal surface to read these books on (recommended) are the \~9" tablets like the iPad or the Galaxy Tab. We try and suppport all devices and desktops—meaning, all modern browsers, all viewports and all operating systems starting from an Apple Watch to an LCD TV. See our full list [here](https://bubblin.io/devices).
 
+Feel free to raise an issue specific to this book with a marked screenshot of how it appears on your device.
 
-The live book is also _offline-first_ using a Service Worker, so no explicit download is required to read or share the book offline.
- 
+> The live book is _offline-first_ using a Service Worker, so no explicit download is required to read or share the book OFFLINE.
+
 
 [![Publication: Live](https://img.shields.io/badge/Superbook-Published-brightgreen.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -28,7 +29,7 @@ The live book is also _offline-first_ using a Service Worker, so no explicit dow
 
 ### MANUSCRIPT (this repo)
 
-The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few other sanitization libraries. 
+The manuscript on this repo has been generated programmatically using [Bookiza Abelone](https://bookiza.io), [h2s](https://github.com/bookiza/h2s) and other few other sanitization libraries.
 
 
 :point_right: This git repository is the `manuscript` whereas the final book is _live_ and served hot on production. This difference in the 'state of work' is part of the vocabulary when publishing with Bookiza, note.
@@ -49,7 +50,7 @@ iPadOS Safari v12.0 and above only.
 
 #### A. HACKING THE BOOK
 
-For example, if you want to mint your own edition of `Pride & Prejudice` (like typesetting it yourself or adding art or illustrations to the book), follow the below given steps: 
+For example, if you want to mint your own edition of `Pride & Prejudice` (like typesetting it yourself or adding art or illustrations to the book), follow the below given steps:
 
 	1. Fork this repository to your own Github Account,
 	2. Clone the forked project to your local,
@@ -64,9 +65,9 @@ Feel free to republish your own new edition! If you create a new avatar of this 
 
 #### B. SUBMITTING FIXES
 
-PRs are absolutely welcome! 
+PRs are absolutely welcome!
 
-Issues pertaining to only this book may be raised on this Github repository. 
+Issues pertaining to only this book may be raised on this Github repository.
 
 
 #### C. TRANSLATIONS
@@ -89,4 +90,4 @@ The body of work on this book i.e. manuscript (text, illustrations etc.) is eith
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
-The sourcecode (libraries) in use for this book have been licensed by their respective owners. 
+The sourcecode (libraries) in use for this book have been licensed by their respective owners.
