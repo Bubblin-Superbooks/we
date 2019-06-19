@@ -6,7 +6,7 @@ A nifty classic for book-lovers on the web.
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter)
 
 
-This [Superbook](https://bubblin.io/docs/format) is brought to you by [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="16px" title="Bubblin Superbooks">](https://bubblin.io) [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web.
+This [Superbook](https://bubblin.io/docs/format) is brought to you by [Bubblin](https://bubblin.io/about)—The Book Publishing Company For The Web. [<img src="https://raw.githubusercontent.com/marvindanig/assets/master/bubblin.png" width="44px" title="Bubblin Superbooks">](https://bubblin.io)
 
 
 
