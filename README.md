@@ -1,8 +1,5 @@
 
-A nifty classic for book-lovers on the web. 
-
-
-To read the book go [here](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter).
+A nifty classic for book-lovers on the web. To read the book go [here](https://bubblin.io/cover/we-by-eugene-zamyatin#frontmatter).
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
